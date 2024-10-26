@@ -1,0 +1,7 @@
+VISUALIZACION DE DATOS
+
+1.	Histogramas: Muestran la distribución de un conjunto de datos continuos. Muestran Distribucion y forma de datos e identifican patrones.
+
+2.	Los gráficos de cajas, o box plots, son utilizados para mostrar la distribución de un conjunto de datos a través de sus cuartiles. Un gráfico de cajas muestra la mediana, los cuartiles, y los valores atípicos de un conjunto de datos. Son útiles para identificar la dispersión, la simetría y la presencia de valores atípicos.
+
+3.	Gráficos de densidad: Los gráficos de densidad, o gráficos de densidad de kernel (KDE), son utilizados para estimar la densidad de probabilidad de una variable continua. A diferencia de los histogramas, los gráficos de densidad suavizan los datos y proporcionan una visualización más fluida de la distribución de los datos.
